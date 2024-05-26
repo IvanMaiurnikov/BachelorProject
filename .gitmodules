@@ -1,0 +1,9 @@
+[submodule "bachelor_DOC"]
+	path = bachelor_DOC
+	url = https://github.com/IvanMaiurnikov/bachelor_DOC.git
+[submodule "bachelor_SOFT"]
+	path = bachelor_SOFT
+	url = https://github.com/IvanMaiurnikov/bachelor_SOFT.git
+[submodule "bachelor_PCB"]
+	path = bachelor_PCB
+	url = https://github.com/IvanMaiurnikov/bachelor_PCB.git
